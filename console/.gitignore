@@ -26,3 +26,6 @@
 
 # broccoli-debug
 /DEBUG/
+
+# runtime config
+/fleetbase.config.json
