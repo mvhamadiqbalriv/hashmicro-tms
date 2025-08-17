@@ -46,3 +46,24 @@ builds/osx/frankenphp
 *.dll
 *.so
 *.dylib
+
+# OS/editor
+.DS_Store
+*.log
+
+# Env & secrets
+api/.env
+
+# Dependencies / build
+api/vendor/
+api/node_modules/
+console/node_modules/
+console/dist/
+**/dist/
+
+# Runtime & cache
+storage/
+data/
+ssl/
+workflows/tmp/
+EOF
