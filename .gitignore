@@ -54,6 +54,9 @@ builds/osx/frankenphp
 # Env & secrets
 api/.env
 
+# Runtime config override (frontend)
+console/fleetbase.config.json
+
 # Dependencies / build
 api/vendor/
 api/node_modules/
