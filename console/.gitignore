@@ -29,3 +29,9 @@
 
 # runtime config
 /fleetbase.config.json
+
+# Deploy script
+deploy.sh
+console-startup.sh
+force-frontend-refresh.sh
+quick-update.sh
